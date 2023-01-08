@@ -1,0 +1,52 @@
+{
+  "Beesmas": {
+    "Candles": { "cooldown": 4.0 },
+    "Ging. House": { "cooldown": 2.0 },
+    "Wreath": { "cooldown": 0.5 },
+    "Lid Art": { "cooldown": 8.0 },
+    "Polar Feast": { "cooldown": 1.5 },
+    "Samovar": { "cooldown": 6.0 },
+    "Snowbear": { "cooldown": 1.5 },
+    "Snow Mach.": { "cooldown": 2.0 },
+    "Stockings": { "cooldown": 1.0 }
+  },
+  "Bosses": {
+    "Stump Snail": { "cooldown": 96.0 },
+    "King Beetle": { "cooldown": 24.0 },
+    "Tunnel Bear": { "cooldown": 48.0 },
+    "Coco Crab": { "cooldown": 36.0 }
+  },
+  "Conditional Dispenser": {
+    "Coconut": { "cooldown": 4.0 },
+    "Wth. Clock": { "cooldown": 1.0 }
+  },
+  "Dispensers": {
+    "Ant Pass": { "cooldown": 22.0 },
+    "Blueberry": { "cooldown": 4.0 },
+    "Glue&Goo": { "cooldown": 22.0 },
+    "Honeystorm": { "cooldown": 4.0 },
+    "Robo Pass": { "cooldown": 22.0 },
+    "Royal Jelly": { "cooldown": 22.0 },
+    "Strawberry": { "cooldown": 4.0 }
+  },
+  "Memory Match": {
+    "25k": { "cooldown": 2.0 },
+    "BBG": { "cooldown": 4.0 },
+    "25m": { "cooldown": 8.0 },
+    "Night": { "cooldown": 8.0 }
+  },
+  "Mobs": {
+    "Ladybug": { "cooldown": 5.0 },
+    "Mantis": { "cooldown": 20.0 },
+    "Rhino Btl.": { "cooldown": 5.0 },
+    "Scorpion": { "cooldown": 20.0 },
+    "Spider": { "cooldown": 30.0 },
+    "Werewolf": { "cooldown": 60.0 }
+  },
+  "Summoners": {
+    "Meteor": { "cooldown": 22.0 },
+    "Sprout": { "cooldown": 16.0 },
+    "Stick Bug": { "cooldown": 30 },
+    "Wind Shrine": { "cooldown": 1.0 }
+  }
+}

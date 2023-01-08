@@ -1,0 +1,6 @@
+-add instant converts and field boosta
+-add mondo and puffshrooms
+-add planters!
+-and blender custom timer
+-add ability for push notifs
+-add ability to turn off various timers
